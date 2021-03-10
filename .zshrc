@@ -1,5 +1,5 @@
-# Flex on the ubuntu users
-#neofetch
+# Flex on the ubuntu users by having neofetch run everytime you open a terminal window.
+neofetch
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
